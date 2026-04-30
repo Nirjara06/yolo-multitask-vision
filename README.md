@@ -272,4 +272,4 @@ All models use the **YOLOv8 Nano** variant — optimized for speed and lightweig
 
 ---
 
-*Lab Assignment 3 | Deep Learning & Computer Vision | MIT Academy of Engineering, Pune*
+*Lab Assignment 3 | Deep Learning | MIT Academy of Engineering, Pune*
